@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá, devs! 👋
+Me chamo Bernardo Guedes, tenho 18 anos e moro em Betim/MG. Atualmente estou cursando Engenharia de Software e estou me dedicando em paralelo a aprender Java!
 <!--
 **Bernardo-Guedes/Bernardo-Guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
