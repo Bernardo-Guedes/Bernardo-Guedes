@@ -80,19 +80,9 @@ Me chamo Bernardo Guedes, tenho 18 anos e sou natural de Belo Horizonte. Conclu�
 
 ### 📊 Estatísticas
 
-<p>
-  <img
-    align = "left"
-    alt = "GitHub Stats"
-    height = "200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bernardo-Guedes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br"
-  />
-  <img
-    align = "left"
-    alt = "GitHub Stats"
-    height = "200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bernardo-Guedes&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
-  />
+<p align="center">
+  <img width="48%" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bernardo-Guedes&show_icons=true&theme=tokyonight" />
+  <img width="48%" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bernardo-Guedes&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
           
           
