@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Bernardo Guedes
 **`Desenvolvedor FullStack`**
 
-Me chamo Bernardo Guedes, tenho 18 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em automação industrial. Atualmente, estou cursando Engenharia de Software na PUC Minas. Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e transformar conhecimento em projetos práticos. No momento, concentro meus estudos em Java, Spring Boot e Python.
+Me chamo Bernardo Guedes, tenho 19 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em automação industrial. Atualmente, estou cursando Engenharia de Software na PUC Minas. Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e transformar conhecimento em projetos práticos. No momento, concentro meus estudos em Java, Spring Boot e Python.
 
 ---
 
