@@ -1,16 +1,103 @@
-## Olá, devs! 👋
-Me chamo Bernardo Guedes, tenho 18 anos e moro em Betim/MG. Atualmente estou cursando Engenharia de Software e estou me dedicando em paralelo a aprender Java!
-<!--
-**Bernardo-Guedes/Bernardo-Guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏻‍💻 Bernardo Guedes
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me chamo Bernardo Guedes, tenho 18 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em automação industrial. Atualmente, estou cursando Engenharia de Software na PUC Minas. Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e transformar conhecimento em projetos práticos. No momento, concentro meus estudos em Java, Spring Boot e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e tecnologias
+
+<img 
+    align = "left"
+    alt = "HTML"
+    title = "HTML"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img 
+    align = "left"
+    alt = "CSS"
+    title = "CSS"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align = "left"
+    alt = "Bootstrap"
+    title = "Bootstrap"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+          
+<img 
+    align = "left"
+    alt = "JavaScript"
+    title = "JavaScript"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align = "left"
+    alt = "JSON"
+    title = "JSON"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
+/>
+<img 
+    align = "left"
+    alt = "Python"
+    title = "Python"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align = "left"
+    alt = "Java"
+    title = "Java"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img
+    align = "left"
+    alt = "Git"
+    title = "Git"
+    width = "30px"
+    style = "padding-right: 10px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br>
+<br>
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align = "left"
+    alt = "GitHub Stats"
+    height = "200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bernardo-Guedes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br"
+  />
+  <img
+    align = "left"
+    alt = "GitHub Stats"
+    height = "200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bernardo-Guedes&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+  />
+</p>
+          
+          
+          
+          
+          
+          
+          
