@@ -1,11 +1,18 @@
-# 👨🏻‍💻 Bernardo Guedes
-**`Desenvolvedor FullStack`**
+-----
 
-Me chamo Bernardo Guedes, tenho 19 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em automação industrial. Atualmente, estou cursando Engenharia de Software na PUC Minas. Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e transformar conhecimento em projetos práticos. No momento, concentro meus estudos em Java, Spring Boot e Python.
+<div>
+<img align="center" alt="Header" src="https://github.com/Bernardo-Guedes/Bernardo-Guedes/blob/main/img/github-header-banner.png"/>
+</div>
+
+-----
+# 👨🏻‍💻 Bernardo Guedes
+**`FullStack Developer`**
+
+My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte. I completed high school at IFMG, where I also finished a technical course in Industrial Automation. Currently, I am pursuing a degree in Software Engineering at PUC Minas. I am always looking to learn new tools, hone my skills, and turn knowledge into practical projects. At the moment, I am focusing my studies on Java, Spring Boot, and Python.
 
 ---
 
-### 🤖 Linguagens e tecnologias
+### 🤖 Languages ​​and technologies
 
 <img 
     align = "left"
@@ -74,17 +81,6 @@ Me chamo Bernardo Guedes, tenho 19 anos e sou natural de Belo Horizonte. Conclu�
     style = "padding-right: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br>
-<br>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img width="46%" height="200"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bernardo-Guedes&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="46%" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bernardo-Guedes&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
           
           
           
