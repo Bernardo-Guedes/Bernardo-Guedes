@@ -81,6 +81,30 @@ My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte
     style = "padding-right: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br>
+<br>
+
+-----
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31adarisbslgbcwv6ntbxyuhaac4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+</td>
+<td>
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31adarisbslgbcwv6ntbxyuhaac4&amp;count=6&amp;radius=5&amp;unique=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="400" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
           
           
           
