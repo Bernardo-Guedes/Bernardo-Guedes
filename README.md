@@ -33,6 +33,26 @@ My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte
 </div>
 
 -----
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+<table>
+<tr>
+<td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img src="https://helio-github-stats.vercel.app/api?username=Bernardo-Guedes&custom_title=GitHub+Stats&theme=tokyonight&title_color=ff00dd&text_color=ffffff&icon_color=88d1ff&ring_color=ff00dd&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
+</td>
+<td>
+<img alt="GitHub Streak" width="485px" src="https://streak-stats.demolab.com?user=Bernardo-Guedes&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+
+-----
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Bernardo's Spotify Data
 
 <div align="center">
 <table>
