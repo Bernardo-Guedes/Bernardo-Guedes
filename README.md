@@ -8,6 +8,12 @@
 # 👨🏻‍💻 Bernardo Guedes
 **`FullStack Developer`**
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&logo=linkedin&logoColor=88d1ff)](https://www.linkedin.com/in/bernardoguedes/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=88d1ff)]()
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-1a1a1a?style=flat-square&logo=instagram&logoColor=88d1ff)](https://www.instagram.com/bguedessilveira/)
+[![Gmail](https://img.shields.io/badge/GMAIL-1a1a1a?style=flat-square&logo=gmail&logoColor=88d1ff)](mailto:bguedessilveira@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-1a1a1a?style=flat-square&logo=whatsapp&logoColor=88d1ff)](https://api.whatsapp.com/send?phone=5531997161366)
+
 My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte. I completed high school at IFMG, where I also finished a technical course in Industrial Automation. Currently, I am pursuing a degree in Software Engineering at PUC Minas. I am always looking to learn new tools, hone my skills, and turn knowledge into practical projects. At the moment, I am focusing my studies on Java, Spring Boot, and Python.
 
 ---
