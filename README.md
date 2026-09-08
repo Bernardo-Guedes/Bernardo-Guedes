@@ -12,78 +12,25 @@ My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte
 
 ---
 
-### 🤖 Languages ​​and technologies
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
+<div align="center">
 
-<img 
-    align = "left"
-    alt = "HTML"
-    title = "HTML"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    align = "left"
-    alt = "CSS"
-    title = "CSS"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align = "left"
-    alt = "Bootstrap"
-    title = "Bootstrap"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-          
-<img 
-    align = "left"
-    alt = "JavaScript"
-    title = "JavaScript"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align = "left"
-    alt = "JSON"
-    title = "JSON"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
-/>
-<img 
-    align = "left"
-    alt = "Python"
-    title = "Python"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=88d1ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=740094)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=88d1ff)
+![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=740094)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=88d1ff)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=740094)
+![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css&logoColor=88d1ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=740094)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-111?style=for-the-badge&logo=thymeleaf&logoColor=88d1ff)
+![JSON](https://img.shields.io/badge/JSON-111?style=for-the-badge&logo=json&logoColor=740094)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=88d1ff)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=740094)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111?style=for-the-badge&logo=intellijidea&logoColor=88d1ff)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=740094)
 
-<img 
-    align = "left"
-    alt = "Java"
-    title = "Java"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img
-    align = "left"
-    alt = "Git"
-    title = "Git"
-    width = "30px"
-    style = "padding-right: 10px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br>
-<br>
+</div>
 
 -----
 
