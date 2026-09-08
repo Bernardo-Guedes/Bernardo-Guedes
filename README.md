@@ -78,6 +78,17 @@ My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte
 </tr> 
 </table>
 </div>
+
+-----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Bernardo-Guedes/Bernardo-Guedes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Bernardo-Guedes/Bernardo-Guedes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Bernardo-Guedes/Bernardo-Guedes/output/pacman-contribution-graph.svg">
+</picture>
           
           
           
