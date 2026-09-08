@@ -33,7 +33,7 @@ My name is Bernardo Guedes; I am 19 years old and originally from Belo Horizonte
 </div>
 
 -----
-## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
 <table>
 <tr>
 <td align="center" colspan="3"></td>
